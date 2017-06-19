@@ -1,0 +1,4 @@
+<launch>
+<node name="dynamit" pkg="insystems_footprint" type="dynamit.py" output="screen">
+</node>
+</launch>
